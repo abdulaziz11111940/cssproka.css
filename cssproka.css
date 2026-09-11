@@ -319,35 +319,35 @@ body {
     }
 
     .guilds__5e434::after {
-        content: 'nava';
+        content: 'каналы';
     }
     .panels__5e434::after {
-        content: 'user';
+        content: 'профиль';
     }
     .sidebarList__5e434::after {
-        content: 'channels';
+        content: 'личные сообщения';
     }
     .subtitleContainer_f75fb0::after {
-        content: 'channel';
+        content: 'взаимодействие';
     }
     .messagesWrapper__36d07::after {
-        content: 'chat';
+        content: 'чат';
     }
     .channelTextArea_f75fb0::after {
-        content: 'input';
+        content: 'сообщение';
     }
     .container_c8ffbb::after,
     .content_f75fb0 > .membersWrap_c8ffbb::after {
-        content: 'members';
+        content: 'участники';
     }
     .container__133bf > .container__9293f:after {
-        content: 'friends';
+        content: 'друзья';
     }
     .peopleColumn__133bf::after {
-        content: 'list';
+        content: 'список';
     }
     .nowPlayingColumn__133bf::after {
-        content: 'activity';
+        content: 'актив';
     }
     .container__01ae2 > .container__9293f::after {
         content: 'thread';
